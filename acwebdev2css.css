@@ -1,0 +1,172 @@
+
+img{
+
+	width: 100%;
+	position: relative;
+}
+
+.nav{
+color:	white;
+background-color: rgba(66, 62, 62, 0.5);
+justify-content: center;
+font-family: 'Orbitron', sans-serif;
+font-size: 1vw;
+border: 1px solid white;
+width:100%;
+padding: 20px;
+
+}
+
+.nav-link{
+
+	color: white;
+	border: 1px solid white;
+}
+
+.nav-link:hover{
+
+background-color: white;
+color: grey;
+
+}
+.btn-secondary{
+
+position: absolute;
+bottom: 35%;
+right:42%;
+font-family: 'Orbitron', sans-serif;
+font-size: 1vw;
+
+}
+
+.btn-secondary:hover{
+background-color: white;
+color: grey;
+}
+
+.mepic{
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+	padding:0px;
+	border: 2px solid rgba(66, 62, 62, 0.5);
+	position: relative;
+	float: right;
+}
+
+
+
+.text{
+
+	margin: 10px;
+}
+
+.imagecontainer {
+	width: 100%;
+    position: relative;
+    text-align: center;
+    
+}
+
+.title1 {
+	font-family: 'Orbitron', sans-serif;
+	border: solid;
+	width:100%;
+	padding: 20px;
+	background-color: rgba(66, 62, 62, 0.5);
+	color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.strapline{
+	color: black;
+	text-decoration: underline;
+	text-decoration color: grey;
+	position: relative;
+ 
+}
+
+.design-process1{
+
+	font-family: 'Orbitron', sans-serif;
+	font-size: 2vw;
+	color: white;
+	border: 1px solid white;
+	background-color: rgba(66, 62, 62, 0.8);
+	padding: 5px;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+
+
+h1{
+
+font-family: 'Orbitron', sans-serif;
+font-size: 3vw;
+
+}
+
+ h2, h3{
+
+	text-align: center;
+	font-family: 'Orbitron', sans-serif;
+
+}
+
+h2{
+
+	font-size: 1em;
+}
+
+h3{ 
+
+	font-size: 2vw;
+
+
+}
+
+p {
+
+	font-family: 'Poiret One', cursive;
+	text-align: center;
+	font-size: 1.8vw;
+
+}
+
+.col{
+
+	padding:0px;
+	border: none;
+	background-color: white;
+	color: black;
+
+
+			/*IMAGE DOESNT FIT IN COLUMN ???*/
+
+}
+
+.landingcol{
+
+	padding: 0px;
+
+}
+	
+.footer{
+
+text-align: center;
+font-family: 'Orbitron', sans-serif;
+border: solid;
+width:100%;
+padding: 20px;
+background-color: rgba(66, 62, 62, 0.5);
+font-size: 1vw;
+color: white;
+}
+
